@@ -1,0 +1,1 @@
+/mnt/c/Users/bhowm/OneDrive/Desktop/learning\ solana/rust/lets\ get\ rusty/helloworld/hello/target/debug/hello: /mnt/c/Users/bhowm/OneDrive/Desktop/learning\ solana/rust/lets\ get\ rusty/helloworld/hello/src/main.rs
